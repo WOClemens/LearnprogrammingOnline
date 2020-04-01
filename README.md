@@ -12,12 +12,12 @@ However, the web application is not yet 100% certain.
 Our project should be ready before the end of this school year, to present it.
 We are currently working on the following official courses
 
-•	C# (in progress)
-•	C
-•	Html
-•	Css
-•	Unity (in progress)
-•	Scratch
+-	C# (in progress)
+-	C
+-	Html
+-	Css
+-	Unity (in progress)
+-	Scratch
 
 At the moment only two people are working on the project, Wolfmayr Clemens and Neumüller Jakob.
 
@@ -50,11 +50,11 @@ However, a person will already dedicate himself to the web application so that i
 ## Issues:
 The following points are necessary to complete the project
 
-•	First the main page will be completed (the design will be completed at the end)
-•	Next, all six courses will be finished 
-•	Then the web-application is made
-•	After the completion of all courses, we will make a page were you can see all courses (optional: you can also search for them, if we have enough time)
-•	At the end we will finish the design an make some other pages like a impressum
+-	First the main page will be completed (the design will be completed at the end)
+-	Next, all six courses will be finished 
+-	Then the web-application is made
+-	After the completion of all courses, we will make a page were you can see all courses (optional: you can also search for them, if we have enough time)
+-	At the end we will finish the design an make some other pages like a impressum
 
 ## Additional:
 Our target group is primarily schoolchildren but also people who want to learn something.
