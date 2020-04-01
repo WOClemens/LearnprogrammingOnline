@@ -60,3 +60,5 @@ The following points are necessary to complete the project
 Our target group is primarily pupil but also people who want to learn something.
 The remaining points are left out because no money is invested and no costs are incurred.
 Likewise, there is only the risk that we will not finish it in time and get a bad mark.
+
+jajajaj
