@@ -1,6 +1,6 @@
 # Learn programming
 
-##### Overview
+## Overview
 
 Although the Internet is full of websites where you can learn to program, there are often too many and on most you will not find what you are looking for.
 It can easily happen that you suddenly find yourself on a website that doesn't explain the topic correctly or even incorrectly.
