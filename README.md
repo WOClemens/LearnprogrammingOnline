@@ -57,6 +57,6 @@ The following points are necessary to complete the project
 -	At the end we will finish the design an make some other pages like a impressum
 
 ## Additional:
-Our target group is primarily schoolchildren but also people who want to learn something.
+Our target group is primarily pupil but also people who want to learn something.
 The remaining points are left out because no money is invested and no costs are incurred.
 Likewise, there is only the risk that we will not finish it in time and get a bad mark.
