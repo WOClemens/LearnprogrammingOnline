@@ -296,7 +296,7 @@ strong
 
 .thre
 {
-  background: #BF00FF;
+  background: #31B404;
   height: auto;
   display: flex;
   justify-content: center;
@@ -304,7 +304,7 @@ strong
 }
 .thre .contant
 {
-   background: #FF0040;
+   background: #31B404;
 }
 
 .about
@@ -318,7 +318,16 @@ strong
 
 section.imgOne
 {
-  background: url(forum.png);
+  background: url(stock2.png);
+  height: 400px;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+section.imgTwo
+{
+  background: url(lava.jpg);
   height: 400px;
   background-size: cover;
   background-position: center center;
