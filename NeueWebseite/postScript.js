@@ -16,9 +16,9 @@ function submitToServer(){
     "description": description,
     "name": name
 	}));
-
+	loadPage();
 }
 
 function loadPage(){
-	window.location = "index.html";
+	window.location = "Forum.html";
 }

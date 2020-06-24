@@ -20,15 +20,14 @@
     <section class="bannerForum">
       <script src="postScript.js"></script>
 
-      <div style = "margin-top: 40px; padding-top: 50px; padding-bottom: 100px; width: 50%; padding-left: 20px; padding-right: 20px;">
+      <<div style = "margin-top: 40px; padding-top: 50px; padding-bottom: 100px; width: 50%; padding-left: 20px; padding-right: 20px;">
         <div class="formular">
           <form id="formular" >
            <label for="exampleFormControlSelect1" style="color: white;">Select type</label>
            <select class="form-control" type="text" name="fType" id="fType">
-                 <option>Question</option>
-                 <option>Exercise</option>
+                 <option>Answer</option>
                </select><br><br>
-          <label for="exampleFormControlInput1" style="color: white;">Title</label>
+          <label for="exampleFormControlInput1" style="color: white;">Name der Frage</label>
           <input class="form-control" type="text" name="fTitle" id="fTitle"><br>
            <div class="form-group">
              <label for="exampleFormControlTextarea1" style="color: white;">Text</label>
@@ -37,7 +36,7 @@
            <label for="exampleFormControlInput1" style="color: white;">Name</label>
         	 <input class="form-control" type="text" name="fName" id="fName"><br>
 
-              <input  class="btn btn-primary" type="button" onclick="submitToServer()"  value="Post">
+              <input class="btn btn-primary" type="button" onclick="submitToServer()"  value="Answer">
           </form>
         </div>
       </div>

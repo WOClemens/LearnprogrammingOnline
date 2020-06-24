@@ -71,5 +71,5 @@ request.onload = function () {
 request.send();
 
 function openAnswer() {
-    window.location = "answer.html";
+    window.location = "postAnswer.html";
 }
